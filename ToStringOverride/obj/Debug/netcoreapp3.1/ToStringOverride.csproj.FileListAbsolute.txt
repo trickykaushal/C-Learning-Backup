@@ -1,0 +1,10 @@
+C:\Users\kaushal.patel\source\repos\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.exe
+C:\Users\kaushal.patel\source\repos\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.deps.json
+C:\Users\kaushal.patel\source\repos\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.dll
+C:\Users\kaushal.patel\source\repos\ToStringOverride\bin\Debug\netcoreapp3.1\ToStringOverride.pdb
+C:\Users\kaushal.patel\source\repos\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.dll
+C:\Users\kaushal.patel\source\repos\ToStringOverride\obj\Debug\netcoreapp3.1\ToStringOverride.pdb

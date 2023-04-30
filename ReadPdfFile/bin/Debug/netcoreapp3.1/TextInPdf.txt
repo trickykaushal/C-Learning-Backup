@@ -1,0 +1,38 @@
+                                     Visual Studio 2019                                                                      DEFAULT KEYBOARD SHORTCUTS
+
+         SEARCH AND NAVIGATION                                                              DEBUGGING AND TESTING
+                                                                                            Debug / Run / Stop 
+         Visual Studio search
+                                                                                            Toggle Breakpoint
+         Go to All 
+                                                                                            Step Over 
+         Go to Type / File / Member / Symbol
+                                                                                            Step Into 
+         Navigate Backward / Forward
+                                                                                            Step Out 
+         Go to Definition / Peek to Definition
+                                                                                            Debug All Tests / Run All Tests
+         Go to Implementation 
+         Go to Next Error                                                                   WINDOW MANAGEMENT
+         Go to Next / Previous Result in List                                               Select Active File in Solution Explorer
+
+                                                                                            Open Tool Windows 
+         EDITING AND REFACTORING                                                               Solution Explorer 
+         Quick Actions / Refactoring Suggestions                                               Output Window
+         Method Info                                                                           Error List
+         Comment / Uncomment                                                                   Team Explorer
+         Delete Line  (without copying it)                                                     Breakpoints 
+         Paste from keyboard buffer ring                                                    Next / Previous Tool Window
+         Move Code Up / Down                                                                Close Current Tool Window
+         Format Document / Selection                                                        Go to Document to the Left / Right
+         Surround with  (… if/try/foreach)                                                  Most Recent / Least Recent Open Document
+         Rename                                                                             Keep Preview Window Open
+         Encapsulate Field                                                                  Full Screen (max window size / reduced menus) 
+         Remove and Sort Usings 
+         Extract Method
+                                                                                            Tools  Options; Environment   Keyboard
+
+
+
+                                                                                                                                                             Revised August 2021
+

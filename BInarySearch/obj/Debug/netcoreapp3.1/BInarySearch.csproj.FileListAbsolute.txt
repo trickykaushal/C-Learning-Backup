@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\BInarySearch\bin\Debug\netcoreapp3.1\BInarySearch.exe
+C:\Users\kaushal.patel\source\repos\BInarySearch\bin\Debug\netcoreapp3.1\BInarySearch.deps.json
+C:\Users\kaushal.patel\source\repos\BInarySearch\bin\Debug\netcoreapp3.1\BInarySearch.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\BInarySearch\bin\Debug\netcoreapp3.1\BInarySearch.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\BInarySearch\bin\Debug\netcoreapp3.1\BInarySearch.dll
+C:\Users\kaushal.patel\source\repos\BInarySearch\bin\Debug\netcoreapp3.1\BInarySearch.pdb
+C:\Users\kaushal.patel\source\repos\BInarySearch\obj\Debug\netcoreapp3.1\BInarySearch.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\BInarySearch\obj\Debug\netcoreapp3.1\BInarySearch.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\BInarySearch\obj\Debug\netcoreapp3.1\BInarySearch.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\BInarySearch\obj\Debug\netcoreapp3.1\BInarySearch.dll
+C:\Users\kaushal.patel\source\repos\BInarySearch\obj\Debug\netcoreapp3.1\BInarySearch.pdb

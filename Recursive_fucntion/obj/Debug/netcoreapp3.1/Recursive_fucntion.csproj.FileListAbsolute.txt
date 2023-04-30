@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\Recursive_fucntion\obj\Debug\netcoreapp3.1\Recursive_fucntion.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\Recursive_fucntion\obj\Debug\netcoreapp3.1\Recursive_fucntion.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\Recursive_fucntion\obj\Debug\netcoreapp3.1\Recursive_fucntion.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\Recursive_fucntion\bin\Debug\netcoreapp3.1\Recursive_fucntion.exe
+C:\Users\kaushal.patel\source\repos\Recursive_fucntion\bin\Debug\netcoreapp3.1\Recursive_fucntion.deps.json
+C:\Users\kaushal.patel\source\repos\Recursive_fucntion\bin\Debug\netcoreapp3.1\Recursive_fucntion.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\Recursive_fucntion\bin\Debug\netcoreapp3.1\Recursive_fucntion.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\Recursive_fucntion\bin\Debug\netcoreapp3.1\Recursive_fucntion.dll
+C:\Users\kaushal.patel\source\repos\Recursive_fucntion\bin\Debug\netcoreapp3.1\Recursive_fucntion.pdb
+C:\Users\kaushal.patel\source\repos\Recursive_fucntion\obj\Debug\netcoreapp3.1\Recursive_fucntion.dll
+C:\Users\kaushal.patel\source\repos\Recursive_fucntion\obj\Debug\netcoreapp3.1\Recursive_fucntion.pdb

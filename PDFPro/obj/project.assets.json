@@ -1,0 +1,255 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DocX/2.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Xceed.Document.NET.dll": {},
+          "lib/net40/Xceed.Words.NET.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Xceed.Document.NET.dll": {},
+          "lib/net40/Xceed.Words.NET.dll": {}
+        }
+      },
+      "Pdfbox/1.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/IKVM.OpenJDK.Beans.dll": {},
+          "lib/IKVM.OpenJDK.Charsets.dll": {},
+          "lib/IKVM.OpenJDK.Corba.dll": {},
+          "lib/IKVM.OpenJDK.Core.dll": {},
+          "lib/IKVM.OpenJDK.Jdbc.dll": {},
+          "lib/IKVM.OpenJDK.Management.dll": {},
+          "lib/IKVM.OpenJDK.Media.dll": {},
+          "lib/IKVM.OpenJDK.Misc.dll": {},
+          "lib/IKVM.OpenJDK.Naming.dll": {},
+          "lib/IKVM.OpenJDK.Remoting.dll": {},
+          "lib/IKVM.OpenJDK.Security.dll": {},
+          "lib/IKVM.OpenJDK.SwingAWT.dll": {},
+          "lib/IKVM.OpenJDK.Text.dll": {},
+          "lib/IKVM.OpenJDK.Util.dll": {},
+          "lib/IKVM.OpenJDK.XML.API.dll": {},
+          "lib/IKVM.Runtime.JNI.dll": {},
+          "lib/IKVM.Runtime.dll": {},
+          "lib/bcmail-jdk15-1.44.dll": {},
+          "lib/bcprov-jdk15-1.44.dll": {},
+          "lib/commons-logging.dll": {},
+          "lib/fontbox-1.8.2.dll": {},
+          "lib/icu4j-3.8.dll": {},
+          "lib/jempbox-1.8.2.dll": {},
+          "lib/junit.dll": {},
+          "lib/pdfbox-1.8.2.dll": {}
+        },
+        "runtime": {
+          "lib/IKVM.OpenJDK.Beans.dll": {},
+          "lib/IKVM.OpenJDK.Charsets.dll": {},
+          "lib/IKVM.OpenJDK.Corba.dll": {},
+          "lib/IKVM.OpenJDK.Core.dll": {},
+          "lib/IKVM.OpenJDK.Jdbc.dll": {},
+          "lib/IKVM.OpenJDK.Management.dll": {},
+          "lib/IKVM.OpenJDK.Media.dll": {},
+          "lib/IKVM.OpenJDK.Misc.dll": {},
+          "lib/IKVM.OpenJDK.Naming.dll": {},
+          "lib/IKVM.OpenJDK.Remoting.dll": {},
+          "lib/IKVM.OpenJDK.Security.dll": {},
+          "lib/IKVM.OpenJDK.SwingAWT.dll": {},
+          "lib/IKVM.OpenJDK.Text.dll": {},
+          "lib/IKVM.OpenJDK.Util.dll": {},
+          "lib/IKVM.OpenJDK.XML.API.dll": {},
+          "lib/IKVM.Runtime.JNI.dll": {},
+          "lib/IKVM.Runtime.dll": {},
+          "lib/bcmail-jdk15-1.44.dll": {},
+          "lib/bcprov-jdk15-1.44.dll": {},
+          "lib/commons-logging.dll": {},
+          "lib/fontbox-1.8.2.dll": {},
+          "lib/icu4j-3.8.dll": {},
+          "lib/jempbox-1.8.2.dll": {},
+          "lib/junit.dll": {},
+          "lib/pdfbox-1.8.2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DocX/2.2.0": {
+      "sha512": "fAhCroEpafJP++GM/cwIH8OrOeztI5iDXZU+BAGKLU16ps7bB1/C6a/cBfR6RWc+7lHTJj/IBjZ3/YnKkZbw1g==",
+      "type": "package",
+      "path": "docx/2.2.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "Xceed_Logo_Retina-400x400.png",
+        "docx.2.2.0.nupkg.sha512",
+        "docx.nuspec",
+        "lib/net40/Xceed.Document.NET.dll",
+        "lib/net40/Xceed.Words.NET.dll",
+        "tools/install.ps1"
+      ]
+    },
+    "Pdfbox/1.1.1": {
+      "sha512": "nYQZCA+5qtJxNDgDiOTRTkqd2ThVT/o5ck6RZ0yLYit4hoB/Nmc5GT74vnHXWrMvYi+OE3i5HyjiLDbe0mzW1w==",
+      "type": "package",
+      "path": "pdfbox/1.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "PdfBox/Decrypt.exe",
+        "PdfBox/Encrypt.exe",
+        "PdfBox/ExportFDF.exe",
+        "PdfBox/ExportXFDF.exe",
+        "PdfBox/ExtractText.exe",
+        "PdfBox/ICSharpCode.SharpZipLib.dll",
+        "PdfBox/IKVM.AWT.WinForms.dll",
+        "PdfBox/IKVM.OpenJDK.Tools.dll",
+        "PdfBox/IKVM.OpenJDK.XML.Bind.dll",
+        "PdfBox/IKVM.OpenJDK.XML.Crypto.dll",
+        "PdfBox/IKVM.OpenJDK.XML.Parse.dll",
+        "PdfBox/IKVM.OpenJDK.XML.Transform.dll",
+        "PdfBox/IKVM.OpenJDK.XML.WebServices.dll",
+        "PdfBox/IKVM.OpenJDK.XML.XPath.dll",
+        "PdfBox/IKVM.Reflection.dll",
+        "PdfBox/ImportFDF.exe",
+        "PdfBox/ImportXFDF.exe",
+        "PdfBox/OverlayPDF.exe",
+        "PdfBox/PDFDebugger.exe",
+        "PdfBox/PDFMerger.exe",
+        "PdfBox/PDFReader.exe",
+        "PdfBox/PDFSplit.exe",
+        "PdfBox/WriteDecodedDoc.exe",
+        "PdfBox/ikvm-native-win32-x64.dll",
+        "PdfBox/ikvm-native-win32-x86.dll",
+        "PdfBox/ikvm.exe",
+        "PdfBox/ikvm.exe.config",
+        "PdfBox/ikvmc.exe",
+        "PdfBox/ikvmc.exe.config",
+        "PdfBox/ikvmstub.exe",
+        "PdfBox/ikvmstub.exe.config",
+        "lib/IKVM.OpenJDK.Beans.dll",
+        "lib/IKVM.OpenJDK.Charsets.dll",
+        "lib/IKVM.OpenJDK.Corba.dll",
+        "lib/IKVM.OpenJDK.Core.dll",
+        "lib/IKVM.OpenJDK.Jdbc.dll",
+        "lib/IKVM.OpenJDK.Management.dll",
+        "lib/IKVM.OpenJDK.Media.dll",
+        "lib/IKVM.OpenJDK.Misc.dll",
+        "lib/IKVM.OpenJDK.Naming.dll",
+        "lib/IKVM.OpenJDK.Remoting.dll",
+        "lib/IKVM.OpenJDK.Security.dll",
+        "lib/IKVM.OpenJDK.SwingAWT.dll",
+        "lib/IKVM.OpenJDK.Text.dll",
+        "lib/IKVM.OpenJDK.Util.dll",
+        "lib/IKVM.OpenJDK.XML.API.dll",
+        "lib/IKVM.Runtime.JNI.dll",
+        "lib/IKVM.Runtime.dll",
+        "lib/bcmail-jdk15-1.44.dll",
+        "lib/bcprov-jdk15-1.44.dll",
+        "lib/commons-logging.dll",
+        "lib/fontbox-1.8.2.dll",
+        "lib/icu4j-3.8.dll",
+        "lib/jempbox-1.8.2.dll",
+        "lib/junit.dll",
+        "lib/pdfbox-1.8.2.dll",
+        "pdfbox.1.1.1.nupkg.sha512",
+        "pdfbox.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DocX >= 2.2.0",
+      "Pdfbox >= 1.1.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kaushal.patel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kaushal.patel\\source\\repos\\PDFPro\\PDFPro.csproj",
+      "projectName": "PDFPro",
+      "projectPath": "C:\\Users\\kaushal.patel\\source\\repos\\PDFPro\\PDFPro.csproj",
+      "packagesPath": "C:\\Users\\kaushal.patel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kaushal.patel\\source\\repos\\PDFPro\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kaushal.patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://tools.kalyptorisk.com/packages/api/v2": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "DocX": {
+            "target": "Package",
+            "version": "[2.2.0, )"
+          },
+          "Pdfbox": {
+            "target": "Package",
+            "version": "[1.1.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'DocX 2.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "DocX",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Pdfbox 1.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Pdfbox",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\Pallindrome check\bin\Debug\netcoreapp3.1\Pallindrome check.exe
+C:\Users\kaushal.patel\source\repos\Pallindrome check\bin\Debug\netcoreapp3.1\Pallindrome check.deps.json
+C:\Users\kaushal.patel\source\repos\Pallindrome check\bin\Debug\netcoreapp3.1\Pallindrome check.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\Pallindrome check\bin\Debug\netcoreapp3.1\Pallindrome check.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\Pallindrome check\bin\Debug\netcoreapp3.1\Pallindrome check.dll
+C:\Users\kaushal.patel\source\repos\Pallindrome check\bin\Debug\netcoreapp3.1\Pallindrome check.pdb
+C:\Users\kaushal.patel\source\repos\Pallindrome check\obj\Debug\netcoreapp3.1\Pallindrome check.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\Pallindrome check\obj\Debug\netcoreapp3.1\Pallindrome check.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\Pallindrome check\obj\Debug\netcoreapp3.1\Pallindrome check.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\Pallindrome check\obj\Debug\netcoreapp3.1\Pallindrome check.dll
+C:\Users\kaushal.patel\source\repos\Pallindrome check\obj\Debug\netcoreapp3.1\Pallindrome check.pdb

@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\StringBuilderVsSystem.String\bin\Debug\netcoreapp3.1\StringBuilderVsSystem.String.exe
+C:\Users\kaushal.patel\source\repos\StringBuilderVsSystem.String\bin\Debug\netcoreapp3.1\StringBuilderVsSystem.String.deps.json
+C:\Users\kaushal.patel\source\repos\StringBuilderVsSystem.String\bin\Debug\netcoreapp3.1\StringBuilderVsSystem.String.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\StringBuilderVsSystem.String\bin\Debug\netcoreapp3.1\StringBuilderVsSystem.String.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\StringBuilderVsSystem.String\bin\Debug\netcoreapp3.1\StringBuilderVsSystem.String.dll
+C:\Users\kaushal.patel\source\repos\StringBuilderVsSystem.String\bin\Debug\netcoreapp3.1\StringBuilderVsSystem.String.pdb
+C:\Users\kaushal.patel\source\repos\StringBuilderVsSystem.String\obj\Debug\netcoreapp3.1\StringBuilderVsSystem.String.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\StringBuilderVsSystem.String\obj\Debug\netcoreapp3.1\StringBuilderVsSystem.String.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\StringBuilderVsSystem.String\obj\Debug\netcoreapp3.1\StringBuilderVsSystem.String.dll
+C:\Users\kaushal.patel\source\repos\StringBuilderVsSystem.String\obj\Debug\netcoreapp3.1\StringBuilderVsSystem.String.pdb
+C:\Users\kaushal.patel\source\repos\StringBuilderVsSystem.String\obj\Debug\netcoreapp3.1\StringBuilderVsSystem.String.csprojAssemblyReference.cache

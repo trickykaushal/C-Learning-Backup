@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\ToStringVsConvert.ToString\bin\Debug\netcoreapp3.1\ToStringVsConvert.ToString.exe
+C:\Users\kaushal.patel\source\repos\ToStringVsConvert.ToString\bin\Debug\netcoreapp3.1\ToStringVsConvert.ToString.deps.json
+C:\Users\kaushal.patel\source\repos\ToStringVsConvert.ToString\bin\Debug\netcoreapp3.1\ToStringVsConvert.ToString.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\ToStringVsConvert.ToString\bin\Debug\netcoreapp3.1\ToStringVsConvert.ToString.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\ToStringVsConvert.ToString\bin\Debug\netcoreapp3.1\ToStringVsConvert.ToString.dll
+C:\Users\kaushal.patel\source\repos\ToStringVsConvert.ToString\bin\Debug\netcoreapp3.1\ToStringVsConvert.ToString.pdb
+C:\Users\kaushal.patel\source\repos\ToStringVsConvert.ToString\obj\Debug\netcoreapp3.1\ToStringVsConvert.ToString.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\ToStringVsConvert.ToString\obj\Debug\netcoreapp3.1\ToStringVsConvert.ToString.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\ToStringVsConvert.ToString\obj\Debug\netcoreapp3.1\ToStringVsConvert.ToString.dll
+C:\Users\kaushal.patel\source\repos\ToStringVsConvert.ToString\obj\Debug\netcoreapp3.1\ToStringVsConvert.ToString.pdb
+C:\Users\kaushal.patel\source\repos\ToStringVsConvert.ToString\obj\Debug\netcoreapp3.1\ToStringVsConvert.ToString.csprojAssemblyReference.cache

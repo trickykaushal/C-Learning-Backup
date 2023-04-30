@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\PracOpen\bin\Release\netcoreapp3.1\PracOpen.exe
+C:\Users\kaushal.patel\source\repos\PracOpen\bin\Release\netcoreapp3.1\PracOpen.deps.json
+C:\Users\kaushal.patel\source\repos\PracOpen\bin\Release\netcoreapp3.1\PracOpen.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\PracOpen\bin\Release\netcoreapp3.1\PracOpen.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\PracOpen\bin\Release\netcoreapp3.1\PracOpen.dll
+C:\Users\kaushal.patel\source\repos\PracOpen\bin\Release\netcoreapp3.1\PracOpen.pdb
+C:\Users\kaushal.patel\source\repos\PracOpen\obj\Release\netcoreapp3.1\PracOpen.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\PracOpen\obj\Release\netcoreapp3.1\PracOpen.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\PracOpen\obj\Release\netcoreapp3.1\PracOpen.dll
+C:\Users\kaushal.patel\source\repos\PracOpen\obj\Release\netcoreapp3.1\PracOpen.pdb
+C:\Users\kaushal.patel\source\repos\PracOpen\obj\Release\netcoreapp3.1\PracOpen.csprojAssemblyReference.cache

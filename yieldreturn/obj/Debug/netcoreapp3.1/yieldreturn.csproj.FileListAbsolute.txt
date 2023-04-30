@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\yieldreturn\bin\Debug\netcoreapp3.1\yieldreturn.exe
+C:\Users\kaushal.patel\source\repos\yieldreturn\bin\Debug\netcoreapp3.1\yieldreturn.deps.json
+C:\Users\kaushal.patel\source\repos\yieldreturn\bin\Debug\netcoreapp3.1\yieldreturn.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\yieldreturn\bin\Debug\netcoreapp3.1\yieldreturn.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\yieldreturn\bin\Debug\netcoreapp3.1\yieldreturn.dll
+C:\Users\kaushal.patel\source\repos\yieldreturn\bin\Debug\netcoreapp3.1\yieldreturn.pdb
+C:\Users\kaushal.patel\source\repos\yieldreturn\obj\Debug\netcoreapp3.1\yieldreturn.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\yieldreturn\obj\Debug\netcoreapp3.1\yieldreturn.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\yieldreturn\obj\Debug\netcoreapp3.1\yieldreturn.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\yieldreturn\obj\Debug\netcoreapp3.1\yieldreturn.dll
+C:\Users\kaushal.patel\source\repos\yieldreturn\obj\Debug\netcoreapp3.1\yieldreturn.pdb

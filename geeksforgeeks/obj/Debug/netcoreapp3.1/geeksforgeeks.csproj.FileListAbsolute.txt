@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\geeksforgeeks\obj\Debug\netcoreapp3.1\geeksforgeeks.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\geeksforgeeks\obj\Debug\netcoreapp3.1\geeksforgeeks.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\geeksforgeeks\obj\Debug\netcoreapp3.1\geeksforgeeks.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\geeksforgeeks\bin\Debug\netcoreapp3.1\geeksforgeeks.exe
+C:\Users\kaushal.patel\source\repos\geeksforgeeks\bin\Debug\netcoreapp3.1\geeksforgeeks.deps.json
+C:\Users\kaushal.patel\source\repos\geeksforgeeks\bin\Debug\netcoreapp3.1\geeksforgeeks.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\geeksforgeeks\bin\Debug\netcoreapp3.1\geeksforgeeks.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\geeksforgeeks\bin\Debug\netcoreapp3.1\geeksforgeeks.dll
+C:\Users\kaushal.patel\source\repos\geeksforgeeks\bin\Debug\netcoreapp3.1\geeksforgeeks.pdb
+C:\Users\kaushal.patel\source\repos\geeksforgeeks\obj\Debug\netcoreapp3.1\geeksforgeeks.dll
+C:\Users\kaushal.patel\source\repos\geeksforgeeks\obj\Debug\netcoreapp3.1\geeksforgeeks.pdb

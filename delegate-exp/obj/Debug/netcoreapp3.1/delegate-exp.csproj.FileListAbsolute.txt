@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\delegate-exp\bin\Debug\netcoreapp3.1\delegate-exp.exe
+C:\Users\kaushal.patel\source\repos\delegate-exp\bin\Debug\netcoreapp3.1\delegate-exp.deps.json
+C:\Users\kaushal.patel\source\repos\delegate-exp\bin\Debug\netcoreapp3.1\delegate-exp.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\delegate-exp\bin\Debug\netcoreapp3.1\delegate-exp.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\delegate-exp\bin\Debug\netcoreapp3.1\delegate-exp.dll
+C:\Users\kaushal.patel\source\repos\delegate-exp\bin\Debug\netcoreapp3.1\delegate-exp.pdb
+C:\Users\kaushal.patel\source\repos\delegate-exp\obj\Debug\netcoreapp3.1\delegate-exp.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\delegate-exp\obj\Debug\netcoreapp3.1\delegate-exp.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\delegate-exp\obj\Debug\netcoreapp3.1\delegate-exp.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\delegate-exp\obj\Debug\netcoreapp3.1\delegate-exp.dll
+C:\Users\kaushal.patel\source\repos\delegate-exp\obj\Debug\netcoreapp3.1\delegate-exp.pdb

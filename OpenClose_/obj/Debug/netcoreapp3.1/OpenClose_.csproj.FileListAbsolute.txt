@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\OpenClose_\bin\Debug\netcoreapp3.1\OpenClose_.exe
+C:\Users\kaushal.patel\source\repos\OpenClose_\bin\Debug\netcoreapp3.1\OpenClose_.deps.json
+C:\Users\kaushal.patel\source\repos\OpenClose_\bin\Debug\netcoreapp3.1\OpenClose_.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\OpenClose_\bin\Debug\netcoreapp3.1\OpenClose_.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\OpenClose_\bin\Debug\netcoreapp3.1\OpenClose_.dll
+C:\Users\kaushal.patel\source\repos\OpenClose_\bin\Debug\netcoreapp3.1\OpenClose_.pdb
+C:\Users\kaushal.patel\source\repos\OpenClose_\obj\Debug\netcoreapp3.1\OpenClose_.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\OpenClose_\obj\Debug\netcoreapp3.1\OpenClose_.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\OpenClose_\obj\Debug\netcoreapp3.1\OpenClose_.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\OpenClose_\obj\Debug\netcoreapp3.1\OpenClose_.dll
+C:\Users\kaushal.patel\source\repos\OpenClose_\obj\Debug\netcoreapp3.1\OpenClose_.pdb

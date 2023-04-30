@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\Delegate Testing\bin\Debug\netcoreapp3.1\Delegate Testing.exe
+C:\Users\kaushal.patel\source\repos\Delegate Testing\bin\Debug\netcoreapp3.1\Delegate Testing.deps.json
+C:\Users\kaushal.patel\source\repos\Delegate Testing\bin\Debug\netcoreapp3.1\Delegate Testing.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\Delegate Testing\bin\Debug\netcoreapp3.1\Delegate Testing.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\Delegate Testing\bin\Debug\netcoreapp3.1\Delegate Testing.dll
+C:\Users\kaushal.patel\source\repos\Delegate Testing\bin\Debug\netcoreapp3.1\Delegate Testing.pdb
+C:\Users\kaushal.patel\source\repos\Delegate Testing\obj\Debug\netcoreapp3.1\Delegate Testing.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\Delegate Testing\obj\Debug\netcoreapp3.1\Delegate Testing.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\Delegate Testing\obj\Debug\netcoreapp3.1\Delegate Testing.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\Delegate Testing\obj\Debug\netcoreapp3.1\Delegate Testing.dll
+C:\Users\kaushal.patel\source\repos\Delegate Testing\obj\Debug\netcoreapp3.1\Delegate Testing.pdb

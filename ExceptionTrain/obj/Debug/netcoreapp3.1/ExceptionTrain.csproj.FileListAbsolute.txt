@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\ExceptionTrain\bin\Debug\netcoreapp3.1\ExceptionTrain.exe
+C:\Users\kaushal.patel\source\repos\ExceptionTrain\bin\Debug\netcoreapp3.1\ExceptionTrain.deps.json
+C:\Users\kaushal.patel\source\repos\ExceptionTrain\bin\Debug\netcoreapp3.1\ExceptionTrain.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\ExceptionTrain\bin\Debug\netcoreapp3.1\ExceptionTrain.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\ExceptionTrain\bin\Debug\netcoreapp3.1\ExceptionTrain.dll
+C:\Users\kaushal.patel\source\repos\ExceptionTrain\bin\Debug\netcoreapp3.1\ExceptionTrain.pdb
+C:\Users\kaushal.patel\source\repos\ExceptionTrain\obj\Debug\netcoreapp3.1\ExceptionTrain.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\ExceptionTrain\obj\Debug\netcoreapp3.1\ExceptionTrain.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\ExceptionTrain\obj\Debug\netcoreapp3.1\ExceptionTrain.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\ExceptionTrain\obj\Debug\netcoreapp3.1\ExceptionTrain.dll
+C:\Users\kaushal.patel\source\repos\ExceptionTrain\obj\Debug\netcoreapp3.1\ExceptionTrain.pdb

@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\delgate\bin\Debug\netcoreapp3.1\delgate.exe
+C:\Users\kaushal.patel\source\repos\delgate\bin\Debug\netcoreapp3.1\delgate.deps.json
+C:\Users\kaushal.patel\source\repos\delgate\bin\Debug\netcoreapp3.1\delgate.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\delgate\bin\Debug\netcoreapp3.1\delgate.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\delgate\bin\Debug\netcoreapp3.1\delgate.dll
+C:\Users\kaushal.patel\source\repos\delgate\bin\Debug\netcoreapp3.1\delgate.pdb
+C:\Users\kaushal.patel\source\repos\delgate\obj\Debug\netcoreapp3.1\delgate.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\delgate\obj\Debug\netcoreapp3.1\delgate.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\delgate\obj\Debug\netcoreapp3.1\delgate.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\delgate\obj\Debug\netcoreapp3.1\delgate.dll
+C:\Users\kaushal.patel\source\repos\delgate\obj\Debug\netcoreapp3.1\delgate.pdb

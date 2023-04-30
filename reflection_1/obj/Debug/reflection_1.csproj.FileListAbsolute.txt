@@ -1,0 +1,8 @@
+C:\Users\kaushal.patel\source\repos\reflection_1\bin\Debug\reflection_1.exe
+C:\Users\kaushal.patel\source\repos\reflection_1\bin\Debug\reflection_1.pdb
+C:\Users\kaushal.patel\source\repos\reflection_1\obj\Debug\reflection_1.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\reflection_1\obj\Debug\reflection_1.Form1.resources
+C:\Users\kaushal.patel\source\repos\reflection_1\obj\Debug\reflection_1.Properties.Resources.resources
+C:\Users\kaushal.patel\source\repos\reflection_1\obj\Debug\reflection_1.csproj.GenerateResource.cache
+C:\Users\kaushal.patel\source\repos\reflection_1\obj\Debug\reflection_1.exe
+C:\Users\kaushal.patel\source\repos\reflection_1\obj\Debug\reflection_1.pdb

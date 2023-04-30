@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\ProgrmaLearnign\bin\Debug\netcoreapp3.1\ProgrmaLearnign.exe
+C:\Users\kaushal.patel\source\repos\ProgrmaLearnign\bin\Debug\netcoreapp3.1\ProgrmaLearnign.deps.json
+C:\Users\kaushal.patel\source\repos\ProgrmaLearnign\bin\Debug\netcoreapp3.1\ProgrmaLearnign.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\ProgrmaLearnign\bin\Debug\netcoreapp3.1\ProgrmaLearnign.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\ProgrmaLearnign\bin\Debug\netcoreapp3.1\ProgrmaLearnign.dll
+C:\Users\kaushal.patel\source\repos\ProgrmaLearnign\bin\Debug\netcoreapp3.1\ProgrmaLearnign.pdb
+C:\Users\kaushal.patel\source\repos\ProgrmaLearnign\obj\Debug\netcoreapp3.1\ProgrmaLearnign.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\ProgrmaLearnign\obj\Debug\netcoreapp3.1\ProgrmaLearnign.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\ProgrmaLearnign\obj\Debug\netcoreapp3.1\ProgrmaLearnign.dll
+C:\Users\kaushal.patel\source\repos\ProgrmaLearnign\obj\Debug\netcoreapp3.1\ProgrmaLearnign.pdb
+C:\Users\kaushal.patel\source\repos\ProgrmaLearnign\obj\Debug\netcoreapp3.1\ProgrmaLearnign.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Late_Binding/1.0.0": {
+        "runtime": {
+          "Late_Binding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Late_Binding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

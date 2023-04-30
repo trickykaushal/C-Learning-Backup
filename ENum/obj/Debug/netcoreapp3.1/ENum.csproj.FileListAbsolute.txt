@@ -1,0 +1,10 @@
+C:\Users\kaushal.patel\source\repos\ENum\obj\Debug\netcoreapp3.1\ENum.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\ENum\obj\Debug\netcoreapp3.1\ENum.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\ENum\bin\Debug\netcoreapp3.1\ENum.exe
+C:\Users\kaushal.patel\source\repos\ENum\bin\Debug\netcoreapp3.1\ENum.deps.json
+C:\Users\kaushal.patel\source\repos\ENum\bin\Debug\netcoreapp3.1\ENum.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\ENum\bin\Debug\netcoreapp3.1\ENum.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\ENum\bin\Debug\netcoreapp3.1\ENum.dll
+C:\Users\kaushal.patel\source\repos\ENum\bin\Debug\netcoreapp3.1\ENum.pdb
+C:\Users\kaushal.patel\source\repos\ENum\obj\Debug\netcoreapp3.1\ENum.dll
+C:\Users\kaushal.patel\source\repos\ENum\obj\Debug\netcoreapp3.1\ENum.pdb

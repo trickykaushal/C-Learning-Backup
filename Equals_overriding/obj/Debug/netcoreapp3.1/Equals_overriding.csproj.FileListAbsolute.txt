@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\Equals_overriding\bin\Debug\netcoreapp3.1\Equals_overriding.exe
+C:\Users\kaushal.patel\source\repos\Equals_overriding\bin\Debug\netcoreapp3.1\Equals_overriding.deps.json
+C:\Users\kaushal.patel\source\repos\Equals_overriding\bin\Debug\netcoreapp3.1\Equals_overriding.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\Equals_overriding\bin\Debug\netcoreapp3.1\Equals_overriding.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\Equals_overriding\bin\Debug\netcoreapp3.1\Equals_overriding.dll
+C:\Users\kaushal.patel\source\repos\Equals_overriding\bin\Debug\netcoreapp3.1\Equals_overriding.pdb
+C:\Users\kaushal.patel\source\repos\Equals_overriding\obj\Debug\netcoreapp3.1\Equals_overriding.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\Equals_overriding\obj\Debug\netcoreapp3.1\Equals_overriding.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\Equals_overriding\obj\Debug\netcoreapp3.1\Equals_overriding.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\Equals_overriding\obj\Debug\netcoreapp3.1\Equals_overriding.dll
+C:\Users\kaushal.patel\source\repos\Equals_overriding\obj\Debug\netcoreapp3.1\Equals_overriding.pdb

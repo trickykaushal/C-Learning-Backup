@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\OutparameterMethod\bin\Debug\netcoreapp3.1\OutparameterMethod.exe
+C:\Users\kaushal.patel\source\repos\OutparameterMethod\bin\Debug\netcoreapp3.1\OutparameterMethod.deps.json
+C:\Users\kaushal.patel\source\repos\OutparameterMethod\bin\Debug\netcoreapp3.1\OutparameterMethod.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\OutparameterMethod\bin\Debug\netcoreapp3.1\OutparameterMethod.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\OutparameterMethod\bin\Debug\netcoreapp3.1\OutparameterMethod.dll
+C:\Users\kaushal.patel\source\repos\OutparameterMethod\bin\Debug\netcoreapp3.1\OutparameterMethod.pdb
+C:\Users\kaushal.patel\source\repos\OutparameterMethod\obj\Debug\netcoreapp3.1\OutparameterMethod.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\OutparameterMethod\obj\Debug\netcoreapp3.1\OutparameterMethod.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\OutparameterMethod\obj\Debug\netcoreapp3.1\OutparameterMethod.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\OutparameterMethod\obj\Debug\netcoreapp3.1\OutparameterMethod.dll
+C:\Users\kaushal.patel\source\repos\OutparameterMethod\obj\Debug\netcoreapp3.1\OutparameterMethod.pdb

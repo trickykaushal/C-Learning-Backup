@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\Wrapper_helperClass\bin\Debug\netcoreapp3.1\Wrapper_helperClass.exe
+C:\Users\kaushal.patel\source\repos\Wrapper_helperClass\bin\Debug\netcoreapp3.1\Wrapper_helperClass.deps.json
+C:\Users\kaushal.patel\source\repos\Wrapper_helperClass\bin\Debug\netcoreapp3.1\Wrapper_helperClass.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\Wrapper_helperClass\bin\Debug\netcoreapp3.1\Wrapper_helperClass.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\Wrapper_helperClass\bin\Debug\netcoreapp3.1\Wrapper_helperClass.dll
+C:\Users\kaushal.patel\source\repos\Wrapper_helperClass\bin\Debug\netcoreapp3.1\Wrapper_helperClass.pdb
+C:\Users\kaushal.patel\source\repos\Wrapper_helperClass\obj\Debug\netcoreapp3.1\Wrapper_helperClass.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\Wrapper_helperClass\obj\Debug\netcoreapp3.1\Wrapper_helperClass.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\Wrapper_helperClass\obj\Debug\netcoreapp3.1\Wrapper_helperClass.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\Wrapper_helperClass\obj\Debug\netcoreapp3.1\Wrapper_helperClass.dll
+C:\Users\kaushal.patel\source\repos\Wrapper_helperClass\obj\Debug\netcoreapp3.1\Wrapper_helperClass.pdb

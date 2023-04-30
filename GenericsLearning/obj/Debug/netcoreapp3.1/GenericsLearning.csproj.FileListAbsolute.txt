@@ -1,0 +1,10 @@
+C:\Users\kaushal.patel\source\repos\GenericsLearning\bin\Debug\netcoreapp3.1\GenericsLearning.exe
+C:\Users\kaushal.patel\source\repos\GenericsLearning\bin\Debug\netcoreapp3.1\GenericsLearning.deps.json
+C:\Users\kaushal.patel\source\repos\GenericsLearning\bin\Debug\netcoreapp3.1\GenericsLearning.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\GenericsLearning\bin\Debug\netcoreapp3.1\GenericsLearning.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\GenericsLearning\bin\Debug\netcoreapp3.1\GenericsLearning.dll
+C:\Users\kaushal.patel\source\repos\GenericsLearning\bin\Debug\netcoreapp3.1\GenericsLearning.pdb
+C:\Users\kaushal.patel\source\repos\GenericsLearning\obj\Debug\netcoreapp3.1\GenericsLearning.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\GenericsLearning\obj\Debug\netcoreapp3.1\GenericsLearning.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\GenericsLearning\obj\Debug\netcoreapp3.1\GenericsLearning.dll
+C:\Users\kaushal.patel\source\repos\GenericsLearning\obj\Debug\netcoreapp3.1\GenericsLearning.pdb

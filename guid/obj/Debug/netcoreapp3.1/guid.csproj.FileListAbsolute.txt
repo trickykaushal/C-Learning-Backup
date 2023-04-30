@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\guid\bin\Debug\netcoreapp3.1\guid.exe
+C:\Users\kaushal.patel\source\repos\guid\bin\Debug\netcoreapp3.1\guid.deps.json
+C:\Users\kaushal.patel\source\repos\guid\bin\Debug\netcoreapp3.1\guid.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\guid\bin\Debug\netcoreapp3.1\guid.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\guid\bin\Debug\netcoreapp3.1\guid.dll
+C:\Users\kaushal.patel\source\repos\guid\bin\Debug\netcoreapp3.1\guid.pdb
+C:\Users\kaushal.patel\source\repos\guid\obj\Debug\netcoreapp3.1\guid.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\guid\obj\Debug\netcoreapp3.1\guid.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\guid\obj\Debug\netcoreapp3.1\guid.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\guid\obj\Debug\netcoreapp3.1\guid.dll
+C:\Users\kaushal.patel\source\repos\guid\obj\Debug\netcoreapp3.1\guid.pdb
