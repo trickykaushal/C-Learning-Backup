@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\Restriction_IN_LiNq\obj\Debug\netcoreapp3.1\Restriction_IN_LiNq.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\Restriction_IN_LiNq\obj\Debug\netcoreapp3.1\Restriction_IN_LiNq.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\Restriction_IN_LiNq\obj\Debug\netcoreapp3.1\Restriction_IN_LiNq.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\Restriction_IN_LiNq\bin\Debug\netcoreapp3.1\Restriction_IN_LiNq.exe
+C:\Users\kaushal.patel\source\repos\Restriction_IN_LiNq\bin\Debug\netcoreapp3.1\Restriction_IN_LiNq.deps.json
+C:\Users\kaushal.patel\source\repos\Restriction_IN_LiNq\bin\Debug\netcoreapp3.1\Restriction_IN_LiNq.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\Restriction_IN_LiNq\bin\Debug\netcoreapp3.1\Restriction_IN_LiNq.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\Restriction_IN_LiNq\bin\Debug\netcoreapp3.1\Restriction_IN_LiNq.dll
+C:\Users\kaushal.patel\source\repos\Restriction_IN_LiNq\bin\Debug\netcoreapp3.1\Restriction_IN_LiNq.pdb
+C:\Users\kaushal.patel\source\repos\Restriction_IN_LiNq\obj\Debug\netcoreapp3.1\Restriction_IN_LiNq.dll
+C:\Users\kaushal.patel\source\repos\Restriction_IN_LiNq\obj\Debug\netcoreapp3.1\Restriction_IN_LiNq.pdb

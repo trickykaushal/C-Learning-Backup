@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\Projection_Select_linq\bin\Debug\netcoreapp3.1\Projection_Select_linq.exe
+C:\Users\kaushal.patel\source\repos\Projection_Select_linq\bin\Debug\netcoreapp3.1\Projection_Select_linq.deps.json
+C:\Users\kaushal.patel\source\repos\Projection_Select_linq\bin\Debug\netcoreapp3.1\Projection_Select_linq.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\Projection_Select_linq\bin\Debug\netcoreapp3.1\Projection_Select_linq.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\Projection_Select_linq\bin\Debug\netcoreapp3.1\Projection_Select_linq.dll
+C:\Users\kaushal.patel\source\repos\Projection_Select_linq\bin\Debug\netcoreapp3.1\Projection_Select_linq.pdb
+C:\Users\kaushal.patel\source\repos\Projection_Select_linq\obj\Debug\netcoreapp3.1\Projection_Select_linq.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\Projection_Select_linq\obj\Debug\netcoreapp3.1\Projection_Select_linq.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\Projection_Select_linq\obj\Debug\netcoreapp3.1\Projection_Select_linq.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\Projection_Select_linq\obj\Debug\netcoreapp3.1\Projection_Select_linq.dll
+C:\Users\kaushal.patel\source\repos\Projection_Select_linq\obj\Debug\netcoreapp3.1\Projection_Select_linq.pdb
