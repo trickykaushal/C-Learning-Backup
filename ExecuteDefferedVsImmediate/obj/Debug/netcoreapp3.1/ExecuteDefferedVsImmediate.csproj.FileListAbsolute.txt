@@ -1,0 +1,11 @@
+C:\Users\kaushal.patel\source\repos\ExecuteDefferedVsImmediate\bin\Debug\netcoreapp3.1\ExecuteDefferedVsImmediate.exe
+C:\Users\kaushal.patel\source\repos\ExecuteDefferedVsImmediate\bin\Debug\netcoreapp3.1\ExecuteDefferedVsImmediate.deps.json
+C:\Users\kaushal.patel\source\repos\ExecuteDefferedVsImmediate\bin\Debug\netcoreapp3.1\ExecuteDefferedVsImmediate.runtimeconfig.json
+C:\Users\kaushal.patel\source\repos\ExecuteDefferedVsImmediate\bin\Debug\netcoreapp3.1\ExecuteDefferedVsImmediate.runtimeconfig.dev.json
+C:\Users\kaushal.patel\source\repos\ExecuteDefferedVsImmediate\bin\Debug\netcoreapp3.1\ExecuteDefferedVsImmediate.dll
+C:\Users\kaushal.patel\source\repos\ExecuteDefferedVsImmediate\bin\Debug\netcoreapp3.1\ExecuteDefferedVsImmediate.pdb
+C:\Users\kaushal.patel\source\repos\ExecuteDefferedVsImmediate\obj\Debug\netcoreapp3.1\ExecuteDefferedVsImmediate.csprojAssemblyReference.cache
+C:\Users\kaushal.patel\source\repos\ExecuteDefferedVsImmediate\obj\Debug\netcoreapp3.1\ExecuteDefferedVsImmediate.AssemblyInfoInputs.cache
+C:\Users\kaushal.patel\source\repos\ExecuteDefferedVsImmediate\obj\Debug\netcoreapp3.1\ExecuteDefferedVsImmediate.AssemblyInfo.cs
+C:\Users\kaushal.patel\source\repos\ExecuteDefferedVsImmediate\obj\Debug\netcoreapp3.1\ExecuteDefferedVsImmediate.dll
+C:\Users\kaushal.patel\source\repos\ExecuteDefferedVsImmediate\obj\Debug\netcoreapp3.1\ExecuteDefferedVsImmediate.pdb
